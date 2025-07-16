@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: /sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Disallow specific files
+Disallow: /performance.js
+Disallow: /script.js
+Disallow: /style.css 
